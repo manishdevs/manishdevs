@@ -1,13 +1,14 @@
 <h1 align="center">Hey Everyone 👋, I'm Manish Pandey</h1>
 
 <div align="center">
-  <img src="https://github.com/manishdevs/manishdevs/blob/main/Banner.png" alt="DevOpsShack Banner">
+  <img src="https://github.com/manishdevs/manishdevs/blob/main/Banner.png" alt="Manish Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
+<h3 align="center">DevOps Engineer with a knack for automation, containerization, and infrastructure as code.
+Always exploring better ways to build, deploy, and scale reliable systems.</h3>
 
 <p align="center">
-  <a href="https://github.com/jaiswaladi246">
+  <a href="https://github.com/manishdevs/manishdevs">
     <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
   </a>
   <a href="https://www.youtube.com/@devopsshack">
