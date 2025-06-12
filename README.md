@@ -45,7 +45,18 @@ Always exploring better ways to build, deploy, and scale reliable systems.</h3>
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
 
-  ---
+---  
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/manishpandey-devops/)
+- 📩 Email: manishpandey.workmail@gmail.com
+- [Projects](https://github.com/manishdevs?tab=repositories)
+- [Medium_Blogs](https://medium.com/@manishpandey919)
+- [View_My_Resume](xyz)
+
+
+---
 
 <p align="center">
   🌟 🌟 🌟 <br/>
@@ -59,14 +70,6 @@ Always exploring better ways to build, deploy, and scale reliable systems.</h3>
 </p>
 
 ---
-
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/manishpandey-devops/)
-- 📩 Email: manishpandey.workmail@gmail.com
-- [Projects](https://github.com/manishdevs?tab=repositories)
-- [Medium_Blogs](https://medium.com/@manishpandey919)
-- [View_My_Resume](xyz)
 
 
 <p align="center">
