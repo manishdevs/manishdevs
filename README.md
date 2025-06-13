@@ -49,11 +49,11 @@ Always exploring better ways to build, deploy, and scale reliable systems.</h3>
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/manishpandey-devops/)
-- 📩 Email: manishpandey.workmail@gmail.com
+- Email: manishpandey.workmail@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/manishpandey-devops/)
 - [Projects](https://github.com/manishdevs?tab=repositories)
 - [Medium_Blogs](https://medium.com/@manishpandey919)
-- [View_My_Resume](xyz)
+- [View_My_Resume](https://drive.google.com/file/d/1yu6P4btXKRa3wMHoxmjabNvc8ZgnGDz_/view?usp=sharing)
 
 
 ---
