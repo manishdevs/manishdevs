@@ -53,7 +53,7 @@ Always exploring better ways to build, deploy, and scale reliable systems.</h3>
 - [LinkedIn](https://www.linkedin.com/in/manishpandey-devops/)
 - [Projects](https://github.com/manishdevs?tab=repositories)
 - [Medium_Blogs](https://medium.com/@manishpandey919)
-- [View_My_Resume](https://drive.google.com/file/d/1wtYaxJrlhLxtgo6IZFqbcPL83nsXhaxT/view?usp=sharing)
+- [View_My_Resume](https://drive.google.com/file/d/1sYqNC-l9xVyHf0keFpsTwn538977Lm04/view?usp=sharing)
 
 
 ---
